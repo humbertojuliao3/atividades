@@ -1,2 +1,0 @@
-# atividades
-teste de repositório
